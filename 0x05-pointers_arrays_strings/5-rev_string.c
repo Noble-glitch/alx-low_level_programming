@@ -1,11 +1,11 @@
-#include "main.h"
+#include "holberton.h"
 
 /**
   * rev_string - Reverses a string
   * @s: The string to be modified
   *
   * Return: void
-  */
+*/
 void rev_string(char *s)
 {
 	int i, c, k;
